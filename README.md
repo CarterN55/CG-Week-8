@@ -1,3 +1,7 @@
 # CG Week 8
 
-test
+Hologram
+
+<img width="748" height="435" alt="image" src="https://github.com/user-attachments/assets/eaa14f5b-f5cd-4dd9-8aba-d8bdc221a201" />
+
+I used the hologram shader on both the model and a capsule. The model doesn't work the same as the capsule so it just has the coloured lines cover the whole thing which creates a flickering effect. The capsule can show the lines normally with a weird effect occuring when you look at it from a certain angle.
