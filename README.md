@@ -10,6 +10,11 @@ I used the hologram shader on both the model and a capsule. The model doesn't wo
 
 (Flashing effect on the model)
 
+<img width="431" height="428" alt="image" src="https://github.com/user-attachments/assets/bf03591f-53ad-439f-b153-3355aa26e8dc" />
+
+(Inspector settings with code changed to make the limits increased)
+
+
 
 
 
