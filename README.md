@@ -13,6 +13,9 @@ I used the hologram shader on both the model and a capsule. The model doesn't wo
 
 
 
+
+
+
 **Stencil**
 
 <img width="805" height="560" alt="image" src="https://github.com/user-attachments/assets/50a200fc-25e9-4037-90c7-da05b450dd6a" />
