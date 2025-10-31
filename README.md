@@ -26,3 +26,6 @@ I used the hologram shader on both the model and a capsule. The model doesn't wo
 I uesd the Stencil (Read Hole and Front) to make a little "window" that you could see through. There's a cylinder sticking out of the wall to create the circular shape.
 
 
+
+**REFLECTION**
+Todays class taught me more about shaders. I really wanted to do more with the hologram shader so this class was a great oppertunity to do so. I'll try to find a way to incorperate the hologram into my GDW game as well as the final project for this class. For now I should just keep experimenting with the values in the ShaderLab code to see what is effecting what.
