@@ -10,6 +10,11 @@ I used the hologram shader on both the model and a capsule. The model doesn't wo
 
 (Flashing effect on the model)
 
+<img width="431" height="428" alt="image" src="https://github.com/user-attachments/assets/bf03591f-53ad-439f-b153-3355aa26e8dc" />
+
+(Inspector settings with code changed to make the limits increased)
+
+
 
 
 
@@ -20,9 +25,11 @@ I used the hologram shader on both the model and a capsule. The model doesn't wo
 
 <img width="805" height="560" alt="image" src="https://github.com/user-attachments/assets/50a200fc-25e9-4037-90c7-da05b450dd6a" />
 <img width="775" height="567" alt="image" src="https://github.com/user-attachments/assets/0ed29cda-949e-419c-8070-859c012fd6e3" />
-<img width="428" height="260" alt="image" src="https://github.com/user-attachments/assets/d3c6cd7c-752e-4f68-af77-fbdb067f5a87" />
 
 
 I uesd the Stencil (Read Hole and Front) to make a little "window" that you could see through. There's a cylinder sticking out of the wall to create the circular shape.
 
 
+
+**REFLECTION**
+Todays class taught me more about shaders. I really wanted to do more with the hologram shader so this class was a great oppertunity to do so. I'll try to find a way to incorperate the hologram into my GDW game as well as the final project for this class. For now I should just keep experimenting with the values in the ShaderLab code to see what is effecting what.
